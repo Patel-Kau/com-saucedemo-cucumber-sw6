@@ -1,0 +1,8 @@
+2023-05-14 00:05:416 INFO  LoginPage :35 - Enter EmailId [[ChromeDriver: chrome on WINDOWS (b9eb85af116e9997f226ffd5e629f3e1)] -> xpath: //input[@id='user-name']]
+2023-05-14 00:05:512 INFO  LoginPage :40 - Enter Password [[ChromeDriver: chrome on WINDOWS (b9eb85af116e9997f226ffd5e629f3e1)] -> xpath: //input[@id='password']]
+2023-05-14 00:05:587 INFO  LoginPage :44 - Click on Log in button[[ChromeDriver: chrome on WINDOWS (b9eb85af116e9997f226ffd5e629f3e1)] -> xpath: //input[@id='login-button']]
+2023-05-14 00:05:720 INFO  LoginPage :33 - Get the Product message [[ChromeDriver: chrome on WINDOWS (b9eb85af116e9997f226ffd5e629f3e1)] -> xpath: //span[@class='title']]
+2023-05-14 00:05:930 INFO  LoginPage :35 - Enter EmailId [[ChromeDriver: chrome on WINDOWS (27cba2c321bad135bfcbb5f6159e306a)] -> xpath: //input[@id='user-name']]
+2023-05-14 00:05:91 INFO  LoginPage :40 - Enter Password [[ChromeDriver: chrome on WINDOWS (27cba2c321bad135bfcbb5f6159e306a)] -> xpath: //input[@id='password']]
+2023-05-14 00:05:171 INFO  LoginPage :44 - Click on Log in button[[ChromeDriver: chrome on WINDOWS (27cba2c321bad135bfcbb5f6159e306a)] -> xpath: //input[@id='login-button']]
+2023-05-14 00:05:262 INFO  LoginPage :40 - Get number of Product displayed By.xpath: //div[@class='inventory_item']
